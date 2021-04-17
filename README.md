@@ -10,8 +10,7 @@ Sugary PR are welcome.
 
 ### Icons
 
-<img width="200" src="images/applejacks.png">
-<img width="200" src="images/capn.png">
+<img width="200" src="images/applejacks.png"> <img width="200" src="images/capn.png">
 <img width="200" src="images/cheerios.png">
 <img width="200" src="images/cinnamon.png">
 <img width="200" src="images/cornflakes.png">
