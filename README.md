@@ -18,6 +18,7 @@ Sugary PR are welcome.
   <img width="200" src="images/cornflakes.png">
   <img width="200" src="images/cornpops.png">
   <img width="200" src="images/eggo.png">
+  <img width="200" src="images/frenchtoastcrunch.png">
   <img width="200" src="images/frootloops.png">
   <img width="200" src="images/frostedflakes.png">
   <img width="200" src="images/frostedminiwheats.png">
@@ -33,6 +34,8 @@ Sugary PR are welcome.
   <img width="200" src="images/raisinbran.png">
   <img width="200" src="images/reesespuffs.png">
   <img width="200" src="images/ricekrispies.png">
+  <img width="200" src="images/ricekrispiestreats.png">
   <img width="200" src="images/smacks.png">
   <img width="200" src="images/trix.png">
+  <img width="200" src="images/wafflecrisp.png">
 </p>
